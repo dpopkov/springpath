@@ -1,4 +1,5 @@
 # Spring Path
 
 ### Spring Fundamentals
-* [Project Conference](conference)
+* [Project Conference without Spring](conference)
+* [Project Conference using Java configuration](conference-java)
