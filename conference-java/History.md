@@ -1,5 +1,8 @@
 # History of implementation
 
+### 3 - Spring Scopes
+* Singleton
+
 ### 2 - Spring Configuration using Java
 * AppConfig
 * Get rid of hardcoded instantiation
