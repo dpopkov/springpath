@@ -7,9 +7,9 @@ import java.util.List;
 
 public class SpeakerServiceImpl implements SpeakerService {
 
-    private SpeakerRepository speakerRepository;
+    private final SpeakerRepository speakerRepository;
 
-    public void setSpeakerRepository(SpeakerRepository speakerRepository) {
+    public SpeakerServiceImpl(SpeakerRepository speakerRepository) {
         this.speakerRepository = speakerRepository;
     }
 
