@@ -1,5 +1,10 @@
 # History
 
+### 5 - Autowiring using Stereotypes
+* @Component
+* @Repository
+* @Service
+
 ### 4 - Autowiring
 
 ### 3 - Spring Scopes
