@@ -1,7 +1,8 @@
-# History of implementation
+# History
 
 ### 3 - Spring Scopes
 * Singleton
+* Prototype
 
 ### 2 - Spring Configuration using Java
 * AppConfig
