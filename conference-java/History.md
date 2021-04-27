@@ -1,5 +1,7 @@
 # History
 
+### 4 - Autowiring
+
 ### 3 - Spring Scopes
 * Singleton
 * Prototype

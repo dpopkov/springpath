@@ -13,9 +13,9 @@ import org.springframework.context.annotation.Scope;
 public class AppConfig {
 
     @Bean(name = "speakerService")
-    @Scope(BeanDefinition.SCOPE_PROTOTYPE)
+    @Scope(BeanDefinition.SCOPE_SINGLETON)
     public SpeakerService getSpeakerService() {
-        return new SpeakerServiceImpl(getSpeakerRepository());
+        return new SpeakerServiceImpl();
     }
 
     @Bean(name = "speakerRepository")
