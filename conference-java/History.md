@@ -1,5 +1,7 @@
 # History
 
+### 7 - FactoryBean
+
 ### 6 - Bean Lifecycle
 * @PostConstruct annotation on init method
 
