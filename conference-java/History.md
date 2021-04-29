@@ -1,5 +1,7 @@
 # History
 
+### 8 - Spring Expression Language (SpEL)
+
 ### 7 - FactoryBean
 
 ### 6 - Bean Lifecycle
