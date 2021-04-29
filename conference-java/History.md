@@ -1,5 +1,8 @@
 # History
 
+### 6 - Bean Lifecycle
+* @PostConstruct annotation on init method
+
 ### 5 - Autowiring using Stereotypes
 * @Component
 * @Repository
